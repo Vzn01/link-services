@@ -15,5 +15,11 @@
         "titulo": "Instagram",
         "img": "https://img.icons8.com/fluency/344/instagram-new.png",
         "href": "https://www.instagram.com/pedro.vanzan/"
+    },
+    {
+        "titulo": "Curriculo",
+        "img": "https://img.icons8.com/external-justicon-flat-justicon/344/external-curriculum-voting-justicon-flat-justicon.png",
+        "href": "https://bulma-portfolio-rho.vercel.app/index.html"
     }
+
 ]
